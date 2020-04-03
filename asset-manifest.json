@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Zavrsni-projekat/static/css/main.aba1b950.chunk.css",
+    "main.js": "/Zavrsni-projekat/static/js/main.9cbce2a2.chunk.js",
+    "main.js.map": "/Zavrsni-projekat/static/js/main.9cbce2a2.chunk.js.map",
+    "runtime-main.js": "/Zavrsni-projekat/static/js/runtime-main.0e119205.js",
+    "runtime-main.js.map": "/Zavrsni-projekat/static/js/runtime-main.0e119205.js.map",
+    "static/js/2.6eb8cb99.chunk.js": "/Zavrsni-projekat/static/js/2.6eb8cb99.chunk.js",
+    "static/js/2.6eb8cb99.chunk.js.map": "/Zavrsni-projekat/static/js/2.6eb8cb99.chunk.js.map",
+    "index.html": "/Zavrsni-projekat/index.html",
+    "precache-manifest.485d7a9a04324f4233a03bb9986039eb.js": "/Zavrsni-projekat/precache-manifest.485d7a9a04324f4233a03bb9986039eb.js",
+    "service-worker.js": "/Zavrsni-projekat/service-worker.js",
+    "static/css/main.aba1b950.chunk.css.map": "/Zavrsni-projekat/static/css/main.aba1b950.chunk.css.map",
+    "static/js/2.6eb8cb99.chunk.js.LICENSE.txt": "/Zavrsni-projekat/static/js/2.6eb8cb99.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Zavrsni-projekat/static/media/1.70ee47e5.jpg",
+    "static/media/FirstPage.css": "/Zavrsni-projekat/static/media/login.160bd700.jpg",
+    "static/media/User.css": "/Zavrsni-projekat/static/media/profile.2c6e94aa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e119205.js",
+    "static/js/2.6eb8cb99.chunk.js",
+    "static/css/main.aba1b950.chunk.css",
+    "static/js/main.9cbce2a2.chunk.js"
+  ]
+}
